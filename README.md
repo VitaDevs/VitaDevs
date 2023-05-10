@@ -19,16 +19,16 @@ For us, VitaDevs, our customers are the most valueable.
 
 ### Meet Our Founders
 ---
-⚡ Nicole Ramos @nickramen 
+⚡ Nicole Ramos [@nickramen](https://github.com/nickramen)
 "I am a software development specialist. I love programming, learning languages and art. Connecting with people really is something i enjoy. I believe we can all contribute to make the world a better place. As a programmer, I want to make my part using code to make a change and help people live easier and better lives. That is my ultimate profesional goal."
     
-⚡ Axel Gallegos @axelGallegos-ctr
+⚡ Axel Gallegos [@axelGallegos-ctr ](https://github.com/axelGallegos-ctr )
 "Hi, I'm Axel, a programmer with a passion for crafting elegant solutions to complex problems. When I'm not coding, I enjoy playing videogames. I am an active person, always learning new things. I'm committed to using my skills to make a positive impact on the world, whether it's through developing innovative software or contributing to open source projects."
 
 ### 📫 Have A Project? We Would Love To Hear From You.
 ---
-**Visit our website: ** [VitaDevs](https://vitadevs.com/)
-**Email: ** teamvitadevs@gmail.com
+**Visit our website:** [VitaDevs](https://vitadevs.com/)
+**Email:** teamvitadevs@gmail.com
 
 ### 🧰 Languages and Tools:
 ---
