@@ -3,7 +3,7 @@
 We are team of young and talented programmers with a passion for innovation and technology.
 
 ### 🌟 About Us:
----
+
 Our vision at VitaDevs is to become a leading provider of software solutions that empower innovation through efficent code. 
 At VitaDevs, our mision is to deliver tailored software solutions that drive growth, enhace efficiency and help our client's business.
 For us, VitaDevs, our customers are the most valueable.
